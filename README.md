@@ -10,7 +10,7 @@ revolution, people met the need to travel more and more for working, but also fo
 changes led to increase interactions. 
 The purpose of this project is to lead an air transport network data analysis across different scales for four countries: 
 the United States, China, the United Kingdom and Australia. For this, different feature-based graph analysis methods 
-have been carefully selected to complete the airline network study in these countries on a macro-scale, a mesoscale, and node-level. To enable effective visualization regarding the computation time, the representation will be 
+have been carefully selected to complete the airline network study in these countries on a macro-scale, a meso-scale, and node-level. To enable effective visualization regarding the computation time, the representation will be 
 done in a low data dimension, selecting data for one chosen month of flight data across the countries. 
 The data used will be analysed as a whole, before demonstrating multi-scale graph analysis for the four given 
 countries. At the end of each method, the selection and the application of the metric used will be analysed with 
